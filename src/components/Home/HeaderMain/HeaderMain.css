@@ -1,0 +1,23 @@
+.items {
+    margin: 35px;
+}
+.texts{
+    color: cornsilk;
+    font-size: 50px;
+}
+.p{
+    color: brown;
+    font-size: 25px;
+}
+#learn-more{
+    color: brown;
+    height: 150px;
+    width: 400px;
+    border: 1px solid gold;
+    box-shadow: 2px 2px 4px gold;
+    border-radius: 10px;
+    background-color: cornsilk;
+    padding: 5px;
+    margin-left: 35px;
+    display: none;
+}
